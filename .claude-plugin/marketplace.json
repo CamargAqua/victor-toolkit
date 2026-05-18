@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "victor-toolkit",
+  "description": "Victor's personal Claude Code marketplace — collection of specialized agents, skills, and commands for engineering, marketing, design, finance, legal, and game dev workflows.",
+  "owner": {
+    "name": "Victor MICHEL",
+    "email": "victormichel1@icloud.com"
+  },
+  "plugins": [
+    {
+      "name": "victor-toolkit",
+      "description": "184 specialized agents + custom skills and commands for full-stack productivity inside Claude Code.",
+      "author": {
+        "name": "Victor MICHEL"
+      },
+      "category": "productivity",
+      "source": "./plugins/victor-toolkit",
+      "homepage": "https://github.com/CamargAqua/victor-toolkit"
+    }
+  ]
+}
