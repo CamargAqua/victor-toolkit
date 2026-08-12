@@ -1,7 +1,7 @@
 {
   "name": "victor-toolkit",
-  "description": "Victor's personal Claude Code toolkit — 184 specialized agents covering engineering, marketing, design, finance, legal, game dev, and more, plus custom skills and slash commands.",
-  "version": "1.0.0",
+  "description": "Victor's personal Claude Code toolkit — 49 specialized agents curated for embedded systems, defense management, and solo B2B SaaS work (engineering, PM/business, finance/legal, design, marketing/sales), plus custom skills and slash commands.",
+  "version": "1.1.0",
   "author": {
     "name": "Victor MICHEL",
     "email": "victormichel1@icloud.com"

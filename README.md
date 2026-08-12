@@ -1,6 +1,6 @@
 # victor-toolkit
 
-Personal Claude Code marketplace bundling **184 specialized agents**, custom skills, and slash commands across engineering, marketing, design, finance, legal, game dev, healthcare, and more.
+Personal Claude Code marketplace bundling **49 specialized agents**, custom skills, and slash commands, curated for embedded systems / defense management / solo B2B SaaS work (engineering, project & business management, finance/legal, design, marketing & sales).
 
 ## Install
 
@@ -13,7 +13,7 @@ From any machine with Claude Code:
 
 ## What's inside
 
-- `plugins/victor-toolkit/agents/` — 184 specialized subagents callable via the Agent tool
+- `plugins/victor-toolkit/agents/` — 49 specialized subagents callable via the Agent tool
 - `plugins/victor-toolkit/skills/` — custom skills
 - `plugins/victor-toolkit/commands/` — custom slash commands
 
@@ -35,7 +35,7 @@ victor-toolkit/
     └── victor-toolkit/
         ├── .claude-plugin/
         │   └── plugin.json     # plugin metadata
-        ├── agents/             # 184 .md agent definitions
+        ├── agents/             # 49 .md agent definitions
         ├── skills/             # custom skills
         └── commands/           # custom slash commands
 ```
